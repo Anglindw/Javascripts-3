@@ -7,3 +7,33 @@
     background-color: royalblue;
     color: yellow;
 }
+
+.form_poke{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+input{
+
+    width: 10%;
+    height: 30px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+.poke-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    color: aliceblue;
+}
+body {
+    background: #1a1e23;
+    margin: 0;
+  }
+  
+ 
